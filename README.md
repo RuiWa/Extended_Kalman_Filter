@@ -1,5 +1,6 @@
-# Karman_Filtering
-Karman Filtering implemention using matlab
+# Kalman_Filtering
+Kalman Filtering implemention using matlab
 
+# introduction
 test1
-一维线性卡尔曼滤波的一个小例子
+a simple example in one-dementsional linear kalman filtering
