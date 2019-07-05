@@ -1,5 +1,5 @@
-# Kalman_Filtering
-Kalman Filtering implemention using matlab
+# 基于EKF的四旋翼无人机姿态估计
+使用扩展卡尔曼滤波算法降低无人机姿态角速度的噪声，并估计姿态角的值
 
-## introduction
-test1 <br> A simple example in one-dementsional linear kalman filtering
+## 扩展卡尔曼滤波
+test1 <br> 一个一维线性卡尔曼滤波的小例子
