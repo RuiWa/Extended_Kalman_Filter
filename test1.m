@@ -18,5 +18,6 @@ for t=2:N;
     p(t)=(1-kg(t))*p1(t);
 end
 t=1:N;
-plot(t,bsx,'r', t,Z,'g', t,x,'b');              % ��ɫ�����Ż��������˲����ֵ��%��ɫ�߹۲�ֵ����ɫ��Ԥ��ֵ
-legend('Kalman�˲����','�۲�ֵ','Ԥ��ֵ');
+plot(t,bsx,'r', t,Z,'g', t,x,'b');              % 红色线最优化估算结果滤波后的值，%绿色线观测值，蓝色线预测值
+legend('Kalman滤波结果','观测值','预测值');
+
